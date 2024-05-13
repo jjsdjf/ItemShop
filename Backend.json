@@ -2,11 +2,11 @@
   "//": "BR Item Shop Config",
   "daily1": {
     "itemGrants": ["AthenaGlider:Glider_ID_029_PajamaParty"],
-    "price": 800
+    "price": 0
   },
   "daily2": {
     "itemGrants": ["AthenaItemWrap:Wrap_230_Glacier"],
-    "price": 300
+    "price": 0
   },
   "daily3": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_169_Farmer"],
